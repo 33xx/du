@@ -12,60 +12,37 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هـنا ضع اسم حسابك الخاص بالتلي",
+      "description": "أرسل أسم حسابك الخاص بالتلي",
       "value": ""
     },
     "APP_ID": {
-      "description": "هـنا ضع ايبي ايدي احصل عليه من  :  my.telegram.org",
+      "description": "أرسل ايبي ايدي الخاص بك - أحصل عليه من http://my.telegram.org",
       "value": ""
     },
     "API_HASH": {
-      "description": "هـنا ضع ايبي هاش احصل عليه من my.telegram.org",
+      "description": "أرسل ايبي هاش الخاص بك - أحصل عليه من http://my.telegram.org",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "هـنا ضع كـود تيرمكس ",
+      "description": "أرسل كود تيرمكس الخاص بحسابك ",
       "value": "",
       "required": false
     },
     "TG_BOT_USERNAME": {
-      "description": " @ هنـا ضع معرف بوت التلي الخاص بك بدون ",
+      "description": " أرسل أسم المستخدم الخاص ببوتك بدون @ ",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "هنـا ضع توكن بوتك .",
+      "description": "أرسل توكن البوت الخاص بك",
       "value": ""
-    },
-    "COMMAND_HAND_LER": {
-      "description": "لا تغيـرها ابدا",
-      "value": ".",
-      "required": false
-    },
-    "ENV": {
-      "description": "لا تغيـرها ابدا.",
-      "value": "ANYTHING",
-      "required": false
-    },
-    "HEROKU_API_KEY": {
-      "description": "ايبـي هيروكو احصل عليه من هذا الرابط مطلوبة ! https://dashboard.heroku.com/account",
-      "value": ""
-    },
-    "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق اول اسم خليته ",
-      "value": ""
-    },
-    "DEFAULT_BIO": {
-      "description": "هنا خلي نبذتك حسابك الي تطلع وي البايو الوقتي ",
-      "value": "",
-      "required": false
     },
     "TZ": {
-      "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "description": "أرسل /skip",
       "value": "Asia/Baghdad",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لا تغيـرها ابدا",
+      "description": "أرسل /skip",
       "value": "Deou",
       "required": false
     }
